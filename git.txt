@@ -15,6 +15,7 @@ git clone https://github.com/leanhhuy/abc.git
 git init
 git add test.c
 git status
+git log
 git commit -m "up test.c"
 git push -u origin master
 #done
