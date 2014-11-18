@@ -23,6 +23,8 @@ git push -u origin master
 git branch -d <branch>
 #swicth branch 
 git check out <branch>
+#remove branch
+git branch -d
 
 touch README.md
 git init
